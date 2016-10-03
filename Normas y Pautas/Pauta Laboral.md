@@ -6,6 +6,6 @@ En Español :
 > **Ubicación**:                                                                                                                 
 > **Horarios**:                                                                                                                  
 > **Beneficios**:                                                                                                                
-> **Tipo de Contrato**: ( Fulltime - Partime - Freelance )                                                                       
+> **Tipo de Contrato**: ( Indefinido - Plazo Fijo - Honorarios )                                                                       
 > **Remuneración Aproximada**: ( Min - Max - Aprox )                                                                             
 > **Correo Electrónico**: ( Para Adjuntar CV )     
