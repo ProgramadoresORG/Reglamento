@@ -1,11 +1,14 @@
 # Pauta para Publicar Ofertas Laborales 
 
-En Español : 
 > **Nombre de la Empresa**:                                                                                                      
 > **Perfil Requerido**:                                                                                                          
 > **Ubicación**:                                                                                                                 
 > **Horarios**:                                                                                                                  
 > **Beneficios**:                                                                                                                
 > **Tipo de Contrato**: ( Indefinido - Plazo Fijo - Honorarios )                                                                       
-> **Remuneración Aproximada**: ( Min - Max - Aprox )                                                                             
+> **Remuneración Aproximada**: ( Minino - Maximo - Aprox )                                                                             
 > **Correo Electrónico**: ( Para Adjuntar CV )     
+
+ATENCIÖN :
+
+     La Remuneración Aproximada es OBLIGATORIA
