@@ -5,12 +5,12 @@
 > **Ubicación**:                                                                                                                 
 > **Horarios**:                                                                                                                  
 > **Beneficios**: ( * Obligatorio si es Práctica )                                                                                                                  
-> **Tipo de Contrato**: ( Indefinido - Plazo Fijo - Honorarios - Freelance - Practica Profesional )                                                                       
+> **Tipo de Contrato**: ( Indefinido - Plazo Fijo - Honorarios - Freelance - Práctica Profesional )                                                                       
 > **Remuneración Aproximada**: ( * Obligatorio si es Oferta Laboral ) ( Minino - Maximo - Aprox )                                                                             
 > **Correo Electrónico**: ( Para Adjuntar CV )     
                                                                                                                                       
 Campos Obligatorios :
 
      1. Oferta Laboral : La Remuneración Aproximada es OBLIGATORIA 
-     2. Practica : Los Beneficios son OBLIGATORIOS
+     2. Práctica : Los Beneficios son OBLIGATORIOS
 
