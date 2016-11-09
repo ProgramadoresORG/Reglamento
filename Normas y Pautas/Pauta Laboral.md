@@ -1,15 +1,15 @@
-# Pauta para Publicar Ofertas Laborales y Practicas                                                                                                 
+# Pauta para Publicar Ofertas Laborales y Prácticas Profesionales                                                                                                
 
 > **Nombre de la Empresa**:                                                                                                      
-> **Perfil Requerido**:                                                                                                          
+> **Perfil Requerido**:                                                                                                           
 > **Ubicación**:                                                                                                                 
 > **Horarios**:                                                                                                                  
-> **Beneficios**:                                                                                                                
-> **Tipo de Contrato**: ( Indefinido - Plazo Fijo - Honorarios - Practica Profesional - Freelance )                                                                       
-> **Remuneración Aproximada**: ( Minino - Maximo - Aprox )                                                                             
+> **Beneficios**: ( * Obligatorio si es Práctica )                                                                                                                  
+> **Tipo de Contrato**: ( Indefinido - Plazo Fijo - Honorarios - Freelance - Practica Profesional )                                                                       
+> **Remuneración Aproximada**: ( * Obligatorio si es Oferta Laboral ) ( Minino - Maximo - Aprox )                                                                             
 > **Correo Electrónico**: ( Para Adjuntar CV )     
                                                                                                                                       
-ATENCIÓN :
+Campos Obligatorios :
 
      1. Oferta Laboral : La Remuneración Aproximada es OBLIGATORIA 
      2. Practica : Los Beneficios son OBLIGATORIOS
