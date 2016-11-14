@@ -14,7 +14,7 @@ Campos Obligatorios :
      1. Oferta Laboral : La Remuneración Aproximada es OBLIGATORIA 
      2. Práctica : Los Beneficios son OBLIGATORIOS
 
-## Rangos de Sueldo Mensual Líquido Sugerido CLP
+## Rangos de Sueldo Mensual Líquido Sugerido CLP ( Peso Chileno )
 
 **Practicante** : 100.000 a 500.000 CLP                                                                       
 **Developer JR** : 500.000 a 900.000 CLP                                                                                  
@@ -22,7 +22,7 @@ Campos Obligatorios :
 **Developer Senior** : 1.200.000 a 3.000.000 CLP                                                               
 **Jefes de Proyecto o CTO** : 1.400.000 a 4.500.000 CLP                                                                        
 
-## Rangos de Sueldo Mensual Líquido Sugerido USD
+## Rangos de Sueldo Mensual Líquido Sugerido USD ( Dolar )
 
 **Practicante** : 150 a 750 USD                                                               
 **Developer JR** :  750 a 1.350 USD                                                              
