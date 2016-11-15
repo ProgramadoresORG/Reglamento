@@ -28,4 +28,4 @@ Campos Obligatorios :
 **Developer JR** :  750 a 1.350 USD                                                              
 **Developer Semi-Senior** : 1.200 a 1.800 USD                                                    
 **Developer Senior** : Desde 1.800 USD                                                     
-**Jefes de Proyecto o CTO** : Desde 6.000 USD     
+**Jefes de Proyecto o CTO** : Desde 2.100 USD     
