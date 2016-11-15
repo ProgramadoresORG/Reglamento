@@ -19,13 +19,13 @@ Campos Obligatorios :
 **Practicante** : 100.000 a 500.000 CLP                                                                       
 **Developer JR** : 500.000 a 900.000 CLP                                                                                  
 **Developer Semi-Senior** : 800.000 a 1.200.000 CLP                                                                       
-**Developer Senior** : 1.200.000 a 3.000.000 CLP                                                               
-**Jefes de Proyecto o CTO** : 1.400.000 a 4.500.000 CLP                                                                        
+**Developer Senior** : Desde 1.200.000 CLP                                                              
+**Jefes de Proyecto o CTO** : Desde 1.400.000 CLP                                                                        
 
 ## Rangos de Sueldo Mensual Líquido Sugerido USD ( Dolar )
 
 **Practicante** : 150 a 750 USD                                                               
 **Developer JR** :  750 a 1.350 USD                                                              
 **Developer Semi-Senior** : 1.200 a 1.800 USD                                                    
-**Developer Senior** : 1.800 a 4.500 USD                                                     
-**Jefes de Proyecto o CTO** : 2.100 a 6.000 USD     
+**Developer Senior** : Desde 1.800 USD                                                     
+**Jefes de Proyecto o CTO** : Desde 6.000 USD     
