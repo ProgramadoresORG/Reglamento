@@ -12,7 +12,7 @@ Campos Obligatorios :
 > **Horarios**:                                                                                                                  
 > **Beneficios**: ( * Obligatorio si es Práctica )                                                                                                                  
 > **Tipo de Contrato**: ( Indefinido - Plazo Fijo - Honorarios - Freelance - Práctica Profesional )                                                                       
-> **Remuneración Aproximada**: ( * Obligatorio si es Oferta Laboral ) ( Mínino - Máximo - Aprox )                                                                             
+> **Remuneración Aproximada**: ( Mínino a Ofrecer y Máximo a Ofrecer )                                                                                                                      
 > **Correo Electrónico**: ( Para Adjuntar CV )     
                                                                                                                                       
 
