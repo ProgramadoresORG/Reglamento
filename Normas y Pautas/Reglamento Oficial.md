@@ -2,7 +2,7 @@
 
 **Normas de Convivencia**
 ---- 
-**1.1** Quedan estrictamente prohibido los adjetivos descalificativos entre los usuarios o hacia los administradores de la comunidad.
+**1.1** Quedan estrictamente prohibido los descalificativos entre los usuarios o hacia los administradores de la comunidad.
 
 **Procedimiento** 
 
