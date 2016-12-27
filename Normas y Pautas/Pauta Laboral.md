@@ -6,7 +6,7 @@ Campos Obligatorios :
      2. Práctica : Los Beneficios son OBLIGATORIOS
 
 
-#OfertaLaboral                                                                                                                                                                
+> **#OfertaLaboral**                                                                                                                                                            
 > **Nombre de la Empresa**:                                                                                                      
 > **Perfil Requerido**:                                                                                                           
 > **Ubicación**:                                                                                                                 
