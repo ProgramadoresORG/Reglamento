@@ -6,7 +6,7 @@ Campos Obligatorios :
      2. Práctica : Los Beneficios son OBLIGATORIOS
 
 
-> **#OfertaLaboral**                                                                                                                                                            
+> **#OfertaLaboralProgramadores**                                                                                                                                                            
 > **Nombre de la Empresa**:                                                                                                      
 > **Perfil Requerido**:                                                                                                           
 > **Nivel de Experticia**:  ( Practicante - JR - Advance - Senior )                                                                                                            
