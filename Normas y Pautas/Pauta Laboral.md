@@ -9,6 +9,7 @@ Campos Obligatorios :
 > **#OfertaLaboral**                                                                                                                                                            
 > **Nombre de la Empresa**:                                                                                                      
 > **Perfil Requerido**:                                                                                                           
+> **Nivel de Experticia**:  ( Practicante - JR - Advance - Senior )                                                                                                            
 > **Ubicación**:                                                                                                                 
 > **Horarios**:                                                                                                                  
 > **Beneficios**: ( * Obligatorio si es Práctica )                                                                                                                  
@@ -21,6 +22,6 @@ Campos Obligatorios :
 
 **Practicante** : 100.000 a 500.000 CLP                                                                       
 **Developer JR** : 500.000 a 1.000.000 CLP                                                                                  
-**Developer Semi-Senior** : 1.000.000 a 1.400.000 CLP                                                                       
+**Developer Advance** : 1.000.000 a 1.400.000 CLP                                                                       
 **Developer Senior** : Desde 1.600.000 CLP                                                              
 **Jefes de Proyecto o CTO** : Desde 1.400.000 CLP                                                                        
