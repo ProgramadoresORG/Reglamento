@@ -8,7 +8,7 @@ Campos Obligatorios :
 
 > **#OfertaLaboralProgramadoresChile**                                                                                                                                                            
 > **Nombre de la Empresa**:                                                                                                      
-> **Perfil Requerido**:  ( Conocimientos Requeridos para Postular )                                                                   
+> **Perfil Requerido**:  ( Conocimientos Requeridos para Postular )                                                                                                                              
 > **Nivel de Experticia**:  ( Practicante - JR - Advance - Senior )                                                                                                            
 > **Ubicación**:                                                                                                                                                                
 > **Horarios**:                                                                                                                  
