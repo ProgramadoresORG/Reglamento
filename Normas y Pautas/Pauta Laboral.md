@@ -8,12 +8,13 @@ Campos Obligatorios :
 
 > **#OfertaLaboralProgramadoresChile**                                                                                                                                                            
 > **Nombre de la Empresa**:                                                                                                      
-> **Perfil Requerido**:                                                                                                           
+> **Perfil Requerido**:  ( Conocimientos Requeridos para Postular )                                                                                                           
 > **Nivel de Experticia**:  ( Practicante - JR - Advance - Senior )                                                                                                            
-> **Ubicación**:                                                                                                                 
+> **Ubicación**:                                                                                                                                                                
 > **Horarios**:                                                                                                                  
-> **Beneficios**: ( * Obligatorio si es Práctica )                                                                                                                  
-> **Tipo de Contrato**: ( Indefinido - Plazo Fijo - Honorarios - Freelance - Práctica Profesional )                                                                       
+> **Benefícios**: ( * Remuneraciones NO IMPONIBLES como Transporte, Colación, Bonos, Seguros, Capacitaciónes, etc )                                                                                                                                    
+> **Ambiente Laboral**: ( * ¿Como es Trabajar en esta empresa? )                                                                                                   
+> **Tipo de Contrato**: ( Practica - Honorarios - Plazo Fijo - Indefinido )                                                                        
 > **Remuneración Aproximada**: ( Mínino a Ofrecer y Máximo a Ofrecer )                                                                                                                      
 > **Correo Electrónico**: ( Para Adjuntar CV )     
                                                                                                                                       
