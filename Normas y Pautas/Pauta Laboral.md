@@ -6,7 +6,7 @@ Campos Obligatorios :
      2. Práctica : Los Beneficios son OBLIGATORIOS
 
 
-> **#OfertaLaboralProgramadoresChile**                                                                                                                                                                                                                                                              
+> **#OfertaLaboralProgramadoresChile**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
 > **Nombre de la Empresa**:                                                                                                      
 > **Perfil Requerido**:  ( Conocimientos Requeridos para Postular )                                                                                                                              
 > **Nivel de Experticia**:  ( Practicante - JR - Advance - Senior )                                                                                                            
