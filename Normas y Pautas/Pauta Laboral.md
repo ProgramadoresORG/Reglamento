@@ -12,10 +12,10 @@ Campos Obligatorios :
 > **Nivel de Experticia**:  ( Practicante - JR - Advance - Senior )                                                                                                            
 > **Ubicación**:                                                                                                                                                                
 > **Horarios**:                                                                                                                  
-> **Benefícios**: ( * Remuneraciones NO IMPONIBLES como Transporte, Colación, Bonos, Seguros, etc )                                                                                                                                    
-> **Ambiente Laboral**: ( * ¿Como es Trabajar en esta empresa? )                                                                                                   
+> **Benefícios**: ( Remuneraciones NO IMPONIBLES como Transporte, Colación, Bonos, Seguros, etc )                                                                                                
+> **Ambiente Laboral**: (  ¿Como es Trabajar en esta empresa? )                                                                                                   
 > **Tipo de Contrato**: ( Practica - Honorarios - Plazo Fijo - Indefinido )                                                                        
-> **Remuneración Aproximada**: ( Mínino a Ofrecer y Máximo a Ofrecer )                                                                                                                      
+> **Remuneración Aproximada**: ( *OBLIGATORIO* Mínino a Ofrecer y Máximo a Ofrecer )                                                                                                                      
 > **Correo Electrónico**: ( Para Adjuntar CV )     
                                                                                                                                       
 
