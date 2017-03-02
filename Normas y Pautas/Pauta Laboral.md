@@ -10,7 +10,7 @@ Campos Obligatorios :
 > **Nombre de la Empresa**:                                                                                                      
 > **Perfil Requerido**:  ( Conocimientos Requeridos para Postular )                                                                                                                              
 > **Nivel de Experticia**:  ( Practicante - JR - Advance - Senior )                                                                                                            
-> **Ubicación**:                                                                                                                                                                
+> **Ubicación**: ( Dirección de la Empresa o del lugar de la Entrevista )                                                                                                                                                         
 > **Horarios**:  ( Lunes a Viernes de xx:xx a xx:xx hrs o artículo 22 del Código del Trabajo )                                                                                                                  
 > **Benefícios**: ( Remuneraciones NO IMPONIBLES como Transporte, Colación, Bonos, Seguros, etc )                              
 > **Ambiente Laboral**: (  ¿Como es Trabajar en esta empresa? )                                                                                                   
