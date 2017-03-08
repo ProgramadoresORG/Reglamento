@@ -21,11 +21,11 @@ Convenios con Universidades e Intitutos :
 > **Link Usuario Facebook**: ( https://www.facebook.com/Usuario )                                                                                           
 > **Link Usuario Linkedin**: ( https://www.linkedin.com/in/Usuario )   
                                                              
- 
+ Enviar al correo Contacto@Programadoreschile.org con el ASUNTO : Expositor Taller 
 
 ## Sugerencias del Organizador
 
-**Sugerir fotografia para adjuntar al taller**                                                        
-**Subir Presentación a [slideshare](https://es.slideshare.net/)**                                                                      
-**Crear una Chat en Tiempo Real en [NOYSI](https://noysi.com/site-es/comunidades/programadoreschile) para conectar con los asistentes**                                                             **Documentar todos los pasos en Texto plano para posible Manual del Taller**                                                                                                                       
+**✓ Sugerir fotografia para adjuntar al taller**                                                        
+**✓ Subir Presentación a [slideshare](https://es.slideshare.net/)**                                                                      
+**✓ Crear una Chat en Tiempo Real en [NOYSI](https://noysi.com/site-es/comunidades/programadoreschile) para conectar con los asistentes**                                                             **Documentar todos los pasos en Texto plano para posible Manual del Taller**                                                                                                                       
                                                                     
