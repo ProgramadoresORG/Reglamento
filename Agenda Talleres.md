@@ -6,7 +6,7 @@ Convenios con Universidades e Intitutos :
      2. Instituto de Ciencias Tecnológicas CIISA
 
 
-## Datos Necesarios para Levantar un Taller Intensivo de 8 Horas                                                                                                                                                                                       
+### Datos Necesarios para Levantar un Taller Intensivo de 8 Horas                                                                                                                                                    
 > **Nombre Taller Intensivo** :                                                                                                   
 > **Nombre 1º Bloque** :  ( 90 Min.)                                                                                                                              
 > **Nombre 2º Bloque** :  ( 120 Min.)                                                                                                                              
