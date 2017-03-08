@@ -21,7 +21,7 @@ Convenios con Universidades e Intitutos :
 > **Link Usuario Facebook**: ( https://www.facebook.com/Usuario )                                                                                           
 > **Link Usuario Linkedin**: ( https://www.linkedin.com/in/Usuario )   
                                                              
- Enviar al correo Contacto@Programadoreschile.org con el ASUNTO : Expositor Taller 
+ ✓ Enviar al correo Contacto@Programadoreschile.org con el ASUNTO : Expositor Taller 
 
 ## Sugerencias del Organizador
 
