@@ -28,6 +28,5 @@ Convenios con Universidades e Intitutos :
 **✓ Sugerir fotografia para adjuntar al taller**                                                        
 **✓ Subir Presentación a [slideshare](https://es.slideshare.net/)**                                                                      
 **✓ Crear una Chat en Tiempo Real en [NOYSI](https://noysi.com/site-es/comunidades/programadoreschile) para conectar con los asistentes** 
-
 **✓ Documentar todos los pasos en Texto plano para posible Manual del Taller**                                                                                                                       
                                                                     
