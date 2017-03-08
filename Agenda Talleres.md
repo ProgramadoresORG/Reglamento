@@ -9,16 +9,16 @@ Convenios con Universidades e Intitutos :
 > **Datos Necesarios para Levantar un Taller Intensivo de 8 Horas**                                                                                                                                                                                          
 
 > **Nombre Taller Intensivo** :                                                                                                   
-> **Nombre 1º Bloque**:  ( 90 Min.)                                                                                                                              
-> **Nombre 2º Bloque**:  ( 120 Min.)                                                                                                                              
-> **Nombre 3º Bloque**:  ( 120 Min.)                                                                                                                              
-> **Nombre 4º Bloque**:  ( 120 Min.)                                                                                                                              
+> **Nombre 1º Bloque** :  ( 90 Min.)                                                                                                                              
+> **Nombre 2º Bloque** :  ( 120 Min.)                                                                                                                              
+> **Nombre 3º Bloque** :  ( 120 Min.)                                                                                                                              
+> **Nombre 4º Bloque** :  ( 120 Min.)                                                                                                                              
 > **Nombre Completo del Expositor**:                                                                                                                     
-> **Cargo o Especialidad**:                                                  
-> **Resumen del Taller**: ( Resumen de que va a tratar el taller )                                                                                                    
-> **Requerimientos Usuarios Windows**: ( Traer Instalado )                
-> **Requerimientos Usuarios Linux**: ( Traer Instalado )       
-> **Requerimientos Usuarios Mac**: ( Traer Instalado )                  
+> **Cargo o Especialidad* *:                                                  
+> **Resumen del Taller** : ( Resumen de que va a tratar el taller )                                                                                                    
+> **Requerimientos Usuarios Windows** : ( Traer Instalado )                
+> **Requerimientos Usuarios Linux** : ( Traer Instalado )       
+> **Requerimientos Usuarios Mac** : ( Traer Instalado )                  
 > **Link Usuario Facebook**: ( https://www.facebook.com/Usuario )                                                                                           
 > **Link Usuario Linkedin**: ( https://www.linkedin.com/in/Usuario )   
                                                              
