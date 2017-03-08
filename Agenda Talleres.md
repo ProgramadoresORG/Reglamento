@@ -14,7 +14,7 @@ Convenios con Universidades e Intitutos :
 > **Nombre 3º Bloque** :  ( 120 Min.)                                                                                                                              
 > **Nombre 4º Bloque** :  ( 120 Min.)                                                                                                                              
 > **Nombre Completo del Expositor**:                                                                                                                     
-> **Cargo o Especialidad* *:                                                  
+> **Cargo o Especialidad** :                                                  
 > **Resumen del Taller** : ( Resumen de que va a tratar el taller )                                                                                                    
 > **Requerimientos Usuarios Windows** : ( Traer Instalado )                
 > **Requerimientos Usuarios Linux** : ( Traer Instalado )       
