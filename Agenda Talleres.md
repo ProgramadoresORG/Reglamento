@@ -16,7 +16,7 @@ Convenios con Universidades e Intitutos :
 > **Cargo o Especialidad** :                                                  
 > **Resumen del Taller** : ( Resumen de que va a tratar el taller )                                                                                                    
 > **Requerimientos Usuarios Windows** : ( Traer Instalado )                
-> **Requerimientos Usuarios Linux** : ( Traer Instalado )       
+> **Requerimientos Usuarios Linux** : ( Traer Instalado )                                                            
 > **Requerimientos Usuarios Mac** : ( Traer Instalado )                  
 > **Link Usuario Facebook**: ( https://www.facebook.com/Usuario )                                                                                           
 > **Link Usuario Linkedin**: ( https://www.linkedin.com/in/Usuario )   
