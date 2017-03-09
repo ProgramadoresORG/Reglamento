@@ -26,7 +26,7 @@ Convenios con Universidades e Intitutos :
 ## Sugerencias del Organizador
 
 **✓ Sugerir fotografia para adjuntar al taller**                                                        
-**✓ Subir Presentación a [slideshare](https://es.slideshare.net/)**                                                                      
+**✓ Subir Presentación a [Slideshare](https://es.slideshare.net/)**                                                                      
 **✓ Crear un Canal en [NOYSI](https://noysi.com/site-es/comunidades/programadoreschile)**                                                                                                    
 **✓ Usar [Codeshare](https://codeshare.io) como pizarra de código en el Taller Intensivo**                                                                                                                       
                                                                     
