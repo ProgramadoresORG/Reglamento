@@ -2,7 +2,7 @@
                   
 Para publicar una Práctica en la Comunidad Programadores Chile los requisitos mínimos son :
 
-     ✓ Práctica Remunerada : Desde $100.000 hasta $500.000
+     ✓ Práctica Remunerada : Desde $100.000 en adelante
      ✓ Beneficio : Transporte y/o Colación
      
 Todas las ofertas laborales que requieran un perfil de "Practicante" y que no cumplan estos requisitos mínimos serán eliminadas de la comunidad.
