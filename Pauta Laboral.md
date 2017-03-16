@@ -23,7 +23,7 @@ Todas las ofertas laborales que requieran un perfil de "Practicante" y que no cu
 
 ## Sugerencia de Sueldo Mensual Líquido CLP ( Peso Chileno )
 
-**Practicante** : 100.000 a 500.000 CLP                                                                       
+**Practicante** : Desde 100.000                                                                     
 **Developer JR** : 500.000 a 1.000.000 CLP                                                                                  
 **Developer Advance** : 1.000.000 a 1.600.000 CLP                                                                       
 **Developer Senior** : Desde 1.600.000 CLP                                                              
