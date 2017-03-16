@@ -1,9 +1,11 @@
 # Pauta para Ofertas Laborales y Prácticas Profesionales                                                                             
                   
-Campos Obligatorios :
+Para publicar una Práctica en la Comunidad Programadores Chile los requisitos mínimos son :
 
-     1. Oferta Laboral : La Remuneración Aproximada es OBLIGATORIA 
-     2. Práctica : Los Beneficios son OBLIGATORIOS
+     ✓ Práctica Remunerada : Desde $100.000 hasta $500.000
+     ✓ Beneficio : Transporte y/o Colación
+     
+Todas las ofertas laborales que requieran un perfil de "Practicante" y que no cumplan estos requisitos mínimos serán eliminadas de la comunidad.
 
 
 > **#OfertaLaboralProgramadoresChile**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
@@ -15,7 +17,7 @@ Campos Obligatorios :
 > **Benefícios**: ( Remuneraciones NO IMPONIBLES como Transporte, Colación, Bonos, Seguros, etc )                              
 > **Ambiente Laboral**: (  ¿Como es Trabajar en esta empresa? )                                                                                                   
 > **Tipo de Contrato**: ( Practica - Honorarios - Plazo Fijo - Indefinido )                                                                        
-> **Remuneración Aproximada**: ( *OBLIGATORIO* Mínino a Ofrecer y Máximo a Ofrecer )                                                                                                                      
+> **Remuneración Aproximada**: ( OBLIGATORIO!!!  Mínino a Ofrecer y Máximo a Ofrecer )                                                                                                                      
 > **Correo Electrónico**: ( Para Adjuntar CV )     
                                                                                                                                       
 
