@@ -27,7 +27,7 @@ Convenios con Universidades e Intitutos :
 
 **✓ Sugerir fotografia para adjuntar al taller**                                                        
 **✓ Subir Presentación a [Slideshare](https://es.slideshare.net/)**                                                                      
-**✓ Crear un Canal en [NOYSI](https://noysi.com/site-es/comunidades/programadoreschile)**                                                                                                    
+**✓ Crear un Canal en [NOYSI](https://noysi.com/site-es/comunidades/programadoreschile)o usar canal existente**                                                                                                    
 **✓ Usar [Codeshare](https://codeshare.io) como pizarra de código en el Taller Intensivo**                                                                                                                       
 **✓ Usar [WebRTC Desktop Sharing](https://chrome.google.com/webstore/detail/webrtc-desktop-sharing/nkemblooioekjnpfekmjhpgkackcajhg?hl=es-419) para compartir pantalla**                                                                                                                                                                              
 **✓ Usar [RecordRTC](https://chrome.google.com/webstore/detail/recordrtc/ndcljioonkecdnaaihodjgiliohngojp?hl=es-419) para compartir grabar la pantalla**   
