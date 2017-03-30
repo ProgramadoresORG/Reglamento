@@ -16,6 +16,8 @@
 **Publicaciones**
 ---- 
 
+**Queda estrictamente prohibido**:                                                                                                                                                                               
+
 **2.1** Queda estrictamente prohibido realizar publicaciones con fines comerciales de productos y/o servicios ofrecidos por empresas o personas naturales. Solo se permiten las publicaciones que pretendan financiar actividades de la comunidad.
 
 **2.2** Queda estrictamente prohibido realizar publicaciones que no sean parte de la temática de la Comunidad.
@@ -23,12 +25,6 @@
 **2.3** Queda estrictamente prohibido hacer publicaciones que sean escritas en su mayoría con mayúsculas a modo de énfasis.
 
 **2.4** Queda estrictamente prohibido publicar material didáctico digital (Cursos, Libros, Videotutoriales, etc.) que contengan acordadores en el link ( Adfly, Shorte, Etc ) o redirecciones a blogs con dichos acortadores, solo se permiten aportes con enlace directo a proveedores de almacenamiento en la nube.
-
-**Procedimiento** 
-
-> De ser un Comentario, se procederá a eliminar dicho comentario. De persistir el usuario, se procederá a su bloqueo de la comunidad.
-
-> De ser una Publicación, se procederá a eliminar dicha publicación. De continuar con la actitud, se procederá directamente a bloquear de la comunidad.
 
 
 **Publicidad**:
@@ -40,11 +36,6 @@
 
 **3.3** Quedan estrictamente prohibidas las publicaciones que hagan referencia a una marca de algún Producto o Servicio con el fin de conseguir una venta o tener más usuarios que no este patrocinada por comunidades.io.
 
-**Procedimiento**  
-
-> De ser un Comentario, se procederá a eliminar dicho comentario. De persistir después de la advertencia, se procederá a bloquear de la comunidad.
-
-> De ser una Publicación, se procederá a eliminar dicha publicación. De persistir se procederá directamente a bloquear de la comunidad.
 
 
 **Ofertas Laborales**
