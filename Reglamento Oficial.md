@@ -27,7 +27,7 @@
 **Normas de Convivencia**
 ---- 
 
-**Queda estrictamente prohibido**:                                                                                                                                                                               
+**Queda estrictamente prohibido**:                                                                                                                                                                                                                                                                                 
 **2.1** las faltas de respeto entre los usuarios.
 
 **2.2** las faltas de respeto hacia las autoridades de la Comunidad [Administradores y Moderadores].
@@ -65,7 +65,7 @@
 **Publicidad**:
 ---- 
 
-**Queda estrictamente prohibido**:                                                                                                                                 
+**Queda estrictamente prohibido**:                                                                                                                                                                                                                                   
 **4.1** Publicaciones y comentarios promocionando otras comunidades, a menos las publique un administrador.
 
 **4.2** Publicaciones que hagan referencia a una Fanpage de Facebook.
