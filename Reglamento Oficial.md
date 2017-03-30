@@ -1,52 +1,90 @@
 # Reglas Oficiales de la Comunidad
 
+**Quedarán a criterio las siguientes sanciones en caso de infringir las Normas de la Comunidad** 
+
+> Eliminación de Comentario. 
+> Eliminación de la Publicación. 
+> Desvinculación Temporal de la Comunidad. 
+> Desvinculación Permanente de la Comunidad. 
+> Desvinculación total del las Comunidades.
+> Blacklist adjunto a la Pauta Oficial de Ofertas Laborales.
+
+
+**Usuarios**
+---- 
+
+**No se permiten**:   
+
+**1.1** Menores de edad sin conocimientos previos en Programación.
+
+**1.2** Perfiles Falsos o con poca Actividad.
+
+**1.3** Perfiles creados Recientemente
+
+**1.4** Perfiles de Empresas.
+
+
 **Normas de Convivencia**
 ---- 
-**1.1** Quedan estrictamente prohibido los descalificativos entre los usuarios o hacia los administradores de la comunidad.
 
-**Procedimiento** 
+**Queda estrictamente prohibido**:                                                                                                                                                                               
+**2.1** las faltas de respeto entre los usuarios.
 
-> De ser un Comentario, se procederá a dejarlo al tanto de su falta, si persiste en su comportamiento se procederá a bloquearlo de la comunidad.
+**2.2** las faltas de respeto hacia las autoridades de la Comunidad [Administradores y Moderadores].
 
-> De ser una Publicación, se procederá directamente a eliminar al miembro y su publicacion.
+**2.3** hacer comentarios racistas, xenofobos, amenazantes y humillantes.
 
-> De ser un mensaje por Inbox, se le advertirá de la existencia de las presentes normas. De continuar con la actitud, se procederá directamente a bloquear de la comunidad.
+**2.4** hacer comentarios sobre temas de caracter Religioso, Politico y Deportivo.
 
+**2.5** hacer comentarios de connotación negativa, de desprecio o poco respeto hacia sus administradores y moderadores dentro y fuera de la comunidad .
 
 **Publicaciones**
 ---- 
 
 **Queda estrictamente prohibido**:                                                                                                                                                                               
 
-**2.1** Queda estrictamente prohibido realizar publicaciones con fines comerciales de productos y/o servicios ofrecidos por empresas o personas naturales. Solo se permiten las publicaciones que pretendan financiar actividades de la comunidad.
+**3.1** Crear encuestas para fines de interés personal.
 
-**2.2** Queda estrictamente prohibido realizar publicaciones que no sean parte de la temática de la Comunidad.
+**3.2** Crear publicaciones que no sean parte de la temática de la Comunidad
 
-**2.3** Queda estrictamente prohibido hacer publicaciones que sean escritas en su mayoría con mayúsculas a modo de énfasis.
+**3.3** Crear publicaciones con faltas en la redacción.
 
-**2.4** Queda estrictamente prohibido publicar material didáctico digital (Cursos, Libros, Videotutoriales, etc.) que contengan acordadores en el link ( Adfly, Shorte, Etc ) o redirecciones a blogs con dichos acortadores, solo se permiten aportes con enlace directo a proveedores de almacenamiento en la nube.
+**3.3** Crear publicaciones que no detallen explicitamente el problema del cual se busca orientación.
+
+**3.3** Crear publicaciones con el fin de buscar un determinado profesional sin especificar el problema por el cual se busca orientación.
+
+**3.2** Crear publicaciones sobre ejercicios de carácter Académico con el fin de buscar que le ayuden con la tarea en vez de solicitar orientación para resolverla.
+
+**3.2** Crear publicaciones preguntando por definiciones o conceptos  
+
+**3.4** Crear publicaciones con Acortadores o redireccion de cualquier sitio con el fin de recibir una remuneración por Click.
+
+**3.4** Crear publicaciones siendo menor de edad. A no ser que no sean para pedir orientación profesional sobre la carrera, dudas respecto a la industria y todo lo relacionado a ambito académico, laboral y no publicaciones de caracter Técnico.
 
 
 **Publicidad**:
 ---- 
 
-**3.1** Quedan estrictamente prohibidas publicaciones y comentarios promocionando otras comunidades que no pertenescan a Comunidades.io, a menos que se pida permiso a un administrador.
+**Queda estrictamente prohibido**:                                                                                                                                 
+**4.1** Publicaciones y comentarios promocionando otras comunidades, a menos las publique un administrador.
 
-**3.2** Quedan estrictamente prohibidas las publicaciones que hagan referencia a una Fanpage de Facebook con el fin de conseguir más Likes y no aportar a la Comunidad.
+**4.2** Publicaciones que hagan referencia a una Fanpage de Facebook.
 
-**3.3** Quedan estrictamente prohibidas las publicaciones que hagan referencia a una marca de algún Producto o Servicio con el fin de conseguir una venta o tener más usuarios que no este patrocinada por comunidades.io.
+**4.3** Publicaciones que hagan referencia a Tutoriales de Youtube sin una previa introducción al contenido en la publicación e invitación personalizada a la comunidad.
+
+**4.3** Publicaciones que hagan referencia a Tutoriales de Blog sin una previa introducción al contenido en la publicación e invitación personalizada a la comunidad.
+
+**4.4** Publicaciones que hagan referencia a una Marca, Producto, Servicio o Evento con el fin de conseguir ventas, más tráfico o asistencia, a menos las publique un administrador.
 
 
 
 **Ofertas Laborales**
 ---- 
 
-**4.1** Quedan estrictamente prohibidas todas las ofertas laborales que no sigan la pauta de la comunidad.
+**Queda estrictamente prohibido**:   
 
-**4.2** Se deben obligatoriamente indicar todos los campos mencionados en la pauta. No se aceptará ninguna publicación Freelance sin un rango aproximado entre un mínimo y un máximo.
+**5.1** Todas las ofertas laborales que no sigan la Pauta Oficial de la Comunidad.
 
-**Procedimiento** 
+**5.2** No incluir los campos mencionados en la pauta.
 
-> De ser un Comentario, se procederá a eliminar dicho comentario. De persistir después de la advertencia, se procederá a bloquear de la comunidad.
-
-> De ser una Publicación, se le advertirá de la existencia de las presentes normas por cualquiera de los usuarios. De no editar acorde a la pauta después de 5 minutos de ser notificado, se procederá a borrar la Publicación. En caso de Spam de una oferta laboral, se procederá e eliminar la Publicación y bloquear al Usuario.
+**5.3** Publicar ofertas que requieran un especialista que no se ajuste a los rangos de sueldo liquidos sugeridos por la comunidad.
