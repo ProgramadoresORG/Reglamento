@@ -21,10 +21,10 @@ Todas las ofertas laborales que requieran un perfil de "Practicante" y que no cu
 > **Correo Electrónico**: ( Para Adjuntar CV )     
                                                                                                                                       
 
-## Sugerencia de Sueldo Mensual Líquido CLP ( Peso Chileno )
+## Remuneraciones Minimas Mensuales Permitidas para Publicar en la Comunidad :
 
 **Practicante** : Desde 100.000 CLP                                                                     
-**Developer JR** : Desde 500.000 a 1.000.000 CLP                                                                               
-**Developer Advance** : Desde 1.000.000 a 1.600.000 CLP                                                                       
-**Developer Senior** : Desde 1.600.000 CLP                                                              
+**Programador Junior** : Desde 500.000 CLP                                                                               
+**Programador Advance** : Desde 1.000.000 CLP                                                                       
+**Programador Senior** : Desde 1.600.000 CLP                                                              
 **Jefes de Proyecto o CTO** : Desde 1.400.000 CLP                                                                        
