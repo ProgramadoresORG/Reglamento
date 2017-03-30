@@ -27,7 +27,8 @@
 **Normas de Convivencia**
 ---- 
 
-**Queda estrictamente prohibido**:                                                                                                                                                                                                                                                                                 
+**Queda estrictamente prohibido**:                                                                                                                                    
+
 **2.1** las faltas de respeto entre los usuarios.
 
 **2.2** las faltas de respeto hacia las autoridades de la Comunidad [Administradores y Moderadores].
