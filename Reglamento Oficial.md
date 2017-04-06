@@ -56,11 +56,13 @@
 
 **3.6** Crear publicaciones sobre ejercicios de carácter Académico con el fin de buscar que le ayuden con la tarea en vez de solicitar orientación para resolverla.
 
-**3.7** Crear publicaciones preguntando por definiciones o conceptos  
+**3.7** Crear publicaciones haciendo referencia a Servicios denotando que sus precios están por debajo del mercado y que supuestamente "hechan a perder el mercado" cuando vivimos en una economia de libre mercado, capacidades y conocimientos distintos.
 
-**3.8** Crear publicaciones con Acortadores o redireccion de cualquier sitio con el fin de recibir una remuneración por Click.
+**3.8** Crear publicaciones con "Capturas de Pantalla" sobre sueldos bajos de determinadas empresas que solo generan un ambiente desagradable y por lo tanto están prohibidas.
 
-**3.9** Crear publicaciones siendo menor de edad. A no ser que no sean para pedir orientación profesional sobre la carrera, dudas respecto a la industria y todo lo relacionado a ambito académico, laboral y no publicaciones de caracter Técnico.
+**3.9** Crear publicaciones con Acortadores o redireccion de cualquier sitio con el fin de recibir una remuneración por Click.
+
+**3.10** Crear publicaciones siendo menor de edad. A no ser que no sean para pedir orientación profesional sobre la carrera, dudas respecto a la industria y todo lo relacionado a ambito académico, laboral y no publicaciones de caracter Técnico.
 
 
 **Publicidad**:
