@@ -64,6 +64,8 @@
 
 **3.10** Crear publicaciones siendo menor de edad. A no ser que no sean para pedir orientación profesional sobre la carrera, dudas respecto a la industria y todo lo relacionado a ambito académico, laboral y no publicaciones de caracter Técnico.
 
+**3.11** Crear publicaciones o comentarios "Sexistas" o "Especificando un Genero Determinado", en Programadores Chile apoyamos la diversidad de genero y no toleramos publicaciones, comentarios o cualquier mensaje que transgreda la igualdad de genero tanto para hombres como para mujeres.
+
 
 **Publicidad**:
 ---- 
