@@ -18,7 +18,7 @@ Todas las ofertas laborales que requieran un perfil de "Practicante" y que no cu
 > **Ambiente Laboral**: (  ¿Como es Trabajar en esta empresa? )                                                                                                   
 > **Tipo de Contrato**: ( Practica - Honorarios - Plazo Fijo - Indefinido )                                                                        
 > **Remuneración Aproximada**: ( OBLIGATORIO!!!  Mínino a Ofrecer y Máximo a Ofrecer )                                                                                                                      
-> **Correo Electrónico**: ( Para Adjuntar CV )     
+> **Correo Electrónico**: ( Todos los Correos deben ir con copia a contacto@programadoreschile.org )     
                                                                                                                                       
 
 ## Remuneraciones Minimas Mensuales Permitidas para Publicar en la Comunidad :
