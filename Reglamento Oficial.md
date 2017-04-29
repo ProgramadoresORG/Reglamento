@@ -67,7 +67,7 @@
 **3.11** Crear publicaciones o comentarios "Sexistas" o "Especificando un Genero Determinado", en Programadores Chile apoyamos la diversidad de genero y no toleramos publicaciones y/o comentarios machistas o feministas.
 
 
-**3.12** Compartir cualquier material con derechos de autor "dentro" de la comunidad. hay otras iniciativa y grupos para estos fines y no el de Programadores Chile.
+**3.12** Compartir cualquier material con derechos de autor "dentro" de la comunidad. hay otras iniciativas y grupos para estos fines y no el de Programadores Chile.
 
 **Publicidad**:
 ---- 
