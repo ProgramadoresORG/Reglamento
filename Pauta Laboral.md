@@ -8,7 +8,7 @@ Para publicar una Práctica en la Comunidad Programadores Chile los requisitos m
 Todas las ofertas laborales que requieran un perfil de "Practicante" y que no cumplan estos requisitos mínimos serán eliminadas de la comunidad.
 
 
-> **#OfertaLaboralProgramadoresChile**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+> **#OfertaLaboralProgramadoresChile**                                                                                                                                                                                                                             
 > **Nombre de la Empresa**:                                                                                                      
 > **Perfil Requerido**:  ( Conocimientos Requeridos para Postular )                                                                                                                              
 > **Nivel de Experticia**:  ( Practicante - JR - Advance - Senior )                                                                                                            
