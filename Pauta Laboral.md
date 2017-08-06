@@ -29,6 +29,5 @@ Todas las ofertas laborales que requieran un perfil de "Practicante" y que no cu
 **Programador Senior** : Desde 1.600.000 CLP                                                              
 **Jefes de Proyecto o CTO** : Desde 1.400.000 CLP   
 
-## Sueldos, beneficios, experiencia y habilidades de los miembros de Programadores Chile :
-
-> https://docs.google.com/spreadsheets/d/1Q_sp5Pv_u3yVeFae-vkIzopsQoj2ExdC6wNN0HcVewI/edit#gid=0                                                                     
+## Sueldos de los miembros de Programadores Chile :
+https://docs.google.com/spreadsheets/d/1Q_sp5Pv_u3yVeFae-vkIzopsQoj2ExdC6wNN0HcVewI/edit#gid=0                                                                     
