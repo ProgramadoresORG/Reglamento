@@ -69,6 +69,9 @@
 
 **3.12** Compartir cualquier material con derechos de autor "dentro" de la comunidad. hay otras iniciativas y grupos para estos fines y no el de Programadores Chile.
 
+**3.13** Crear publicaciones sobre temas de caracter Religioso, Politico y Deportivo.
+
+
 **Publicidad**:
 ---- 
 
@@ -95,3 +98,7 @@
 **5.2** No incluir los campos mencionados en la pauta.
 
 **5.3** Publicar ofertas que requieran un especialista que no se ajuste a los rangos de sueldo liquidos sugeridos por la comunidad.
+
+**5.4** Discriminar arbitrariamente en las ofertas de trabajo según lo expuesto en la Ley 20.609 Artículo 2º.- Definición de discriminación arbitraria -> [Leer Ley 20.609](http://portales.mineduc.cl/usuarios/convivencia_escolar/doc/201311281730000.LEY-20609_no_discriminacion.pdf)
+
+
