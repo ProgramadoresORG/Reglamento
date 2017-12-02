@@ -24,18 +24,18 @@ Todas las ofertas laborales que requieran un perfil de "Practicante" y que no cu
 ## Remuneraciones Minimas Mensuales Permitidas para Publicar en la Comunidad :
 
      >> Startups y Agencias Digitales <<
-**Practicante** : Desde 100.000 CLP                                                                     
-**Programador Junior** : Desde 500.000 CLP                                                                               
-**Programador Advance** : Desde 1.000.000 CLP                                                                       
-**Programador Senior** : Desde 1.600.000 CLP                                                              
-**Jefes de Proyecto o CTO** : Desde 1.400.000 CLP   
+**Practicante** : Desde 100.000 CLP Liquido                                                                  
+**Programador Junior** : Desde 500.000 CLP Liquido                                                                            
+**Programador Advance** : Desde 1.000.000 CLP Liquido                                                                       
+**Programador Senior** : Desde 1.600.000 CLP Liquido                                                              
+**Jefes de Proyecto o CTO** : Desde 1.400.000 CLP Liquido    
 
      >> Grandes Empresas <<
-**Practicante** : Desde 200.000 CLP                                                                     
-**Programador Junior** : Desde 1.000.000 CLP                                                                               
-**Programador Advance** : Desde 1.400.000 CLP                                                                       
-**Programador Senior** : Desde 1.800.000 CLP                                                              
-**Jefes de Proyecto o CTO** : Desde 2.000.000 CLP   
+**Practicante** : Desde 200.000 CLP Liquido                                                                     
+**Programador Junior** : Desde 1.000.000 CLP Liquido                                                                           
+**Programador Advance** : Desde 1.400.000 CLP Liquido                                                                       
+**Programador Senior** : Desde 1.800.000 CLP Liquido                                                              
+**Jefes de Proyecto o CTO** : Desde 2.000.000 CLP Liquido   
 
 ## Sueldos de los miembros de Programadores Chile :
 https://docs.google.com/spreadsheets/d/1Q_sp5Pv_u3yVeFae-vkIzopsQoj2ExdC6wNN0HcVewI/edit#gid=0                                                                     
