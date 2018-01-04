@@ -12,6 +12,7 @@ Para publicar una Práctica en la Comunidad Programadores Chile los requisitos m
 Para publicar cualquier Oferta Laboral en la Comunidad Programadores Chile los requisitos mínimos son :
 
      ✓ Respetar los campos OBLIGATORIOS de la Pauta Oficial
+     ✓ Respetar el Estandar de Remuneraciones
    
 
 PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no se respeten los campos OBLIGATORIOS serán eliminadas de la comunidad.
@@ -29,7 +30,7 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 > **Remuneración Aproximada**: ( OBLIGATORIO ***  Mínino y Máximo a Ofrecer )                                                                                                                      
 > **Correo Electrónico**: ( OBLIGATORIO *** Correo Electrónico donde los postulantes envíen su CV )
                  
-> **Enviar CV con Copia (CC) a**: ( OBLIGATORIO *** ) contacto@programadoreschile.org
+> **Enviar CV con Copia (CC) a**: contacto@programadoreschile.org ( OBLIGATORIO *** ) 
                                                                                                                                       
 
 ## Remuneraciones Minimas Mensuales Permitidas para Publicar en la Comunidad :
