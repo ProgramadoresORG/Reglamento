@@ -58,7 +58,7 @@
 
 **3.7** Crear publicaciones haciendo referencia a Servicios denotando que sus precios están por debajo del mercado y que supuestamente "hechan a perder el mercado" cuando vivimos en una economia de libre mercado, capacidades y conocimientos distintos.
 
-**3.8** Crear publicaciones con "Capturas de Pantalla" sobre sueldos bajos de determinadas empresas que solo generan un ambiente desagradable y por lo tanto están prohibidas.
+**3.8** Crear publicaciones con "Capturas de Pantalla" sobre sueldos bajos de determinadas empresas o personas que solo generan un ambiente desagradable y o no aplican al rubro del desarrollo de software por lo tanto están prohibidas.
 
 **3.9** Crear publicaciones con Acortadores o redireccion de cualquier sitio con el fin de recibir una remuneración por Click.
 
