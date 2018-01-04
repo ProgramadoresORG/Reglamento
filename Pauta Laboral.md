@@ -40,14 +40,14 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 **Programador Junior** : Desde 500.000 CLP Liquido                                                                            
 **Programador Advance** : Desde 1.000.000 CLP Liquido                                                                       
 **Programador Senior** : Desde 1.600.000 CLP Liquido                                                              
-**Jefes de Proyecto o CTO** : Desde 1.200.000 CLP Liquido    
+**Jefes de Proyecto** : Desde 1.200.000 CLP Liquido    
 
      ::: Grandes Empresas :::
 **Programador Practicante** : Desde 200.000 CLP Liquido + Beneficios                                                          
 **Programador Junior** : Desde 1.000.000 CLP Liquido                                                                           
 **Programador Advance** : Desde 1.400.000 CLP Liquido                                                                       
 **Programador Senior** : Desde 1.800.000 CLP Liquido                                                              
-**Jefes de Proyecto o CTO** : Desde 2.000.000 CLP Liquido   
+**Jefes de Proyecto** : Desde 2.000.000 CLP Liquido   
 
 ## Sueldos de los miembros de Programadores Chile :
 https://docs.google.com/spreadsheets/d/1Q_sp5Pv_u3yVeFae-vkIzopsQoj2ExdC6wNN0HcVewI/edit#gid=0                                                                     
