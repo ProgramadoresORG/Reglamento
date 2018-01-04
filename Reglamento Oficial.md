@@ -3,11 +3,12 @@
 **Quedarán a criterio las siguientes sanciones en caso de infringir las Normas de la Comunidad** 
 
 > Eliminación de Comentario.                                                                                                   
-> Eliminación de la Publicación.                                                                                                   
+> Eliminación de la Publicación.                                                    
+> Silenciar Miembro por 24 Hrs.                                                  
 > Desvinculación Temporal de la Comunidad.                                                                                                   
 > Desvinculación Permanente de la Comunidad.                                                                                                   
 > Desvinculación total del las Comunidades.                                                                                                  
-> Blacklist adjunto a la Pauta Oficial de Ofertas Laborales.                                                                                                  
+                                                                                            
 
 
 **Usuarios**
