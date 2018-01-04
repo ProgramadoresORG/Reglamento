@@ -16,13 +16,11 @@
 
 **No se permiten**:   
 
-**1.1** Menores de edad sin conocimientos previos en Programación.
+**1.1** Menores de edad que infringan las normas de convivencia (Desvinculación Permanente)
 
-**1.2** Perfiles Falsos o con poca Actividad.
+**1.2** Perfiles que mantengan bloqueados en sus cuentas personales a los moderadores o administradores (Desvinculación Permanente)
 
-**1.3** Perfiles creados Recientemente
-
-**1.4** Perfiles de Empresas.
+**1.2** Perfiles de Empresas (Desvinculación Permanente)
 
 
 **Normas de Convivencia**
@@ -30,7 +28,7 @@
 
 **Queda estrictamente prohibido**:                                                                                                                                    
 
-**2.1** las faltas de respeto entre los usuarios.
+**2.1** las faltas de respeto entre los usuarios. 
 
 **2.2** las faltas de respeto hacia las autoridades de la Comunidad [Administradores y Moderadores].
 
