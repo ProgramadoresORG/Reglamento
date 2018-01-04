@@ -43,7 +43,7 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 **Jefes de Proyecto o CTO** : Desde 1.200.000 CLP Liquido    
 
      ::: Grandes Empresas :::
-**Practicante** : Desde 200.000 CLP Liquido + Beneficios                                                                    
+**Programador Practicante** : Desde 200.000 CLP Liquido + Beneficios                                                          
 **Programador Junior** : Desde 1.000.000 CLP Liquido                                                                           
 **Programador Advance** : Desde 1.400.000 CLP Liquido                                                                       
 **Programador Senior** : Desde 1.800.000 CLP Liquido                                                              
