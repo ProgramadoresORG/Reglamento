@@ -26,8 +26,8 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 > **Benefícios**: ( Remuneraciones NO IMPONIBLES como Transporte, Colación, Bonos, Seguros, etc )                              
 > **Ambiente Laboral**: (  ¿Como es Trabajar en esta empresa? )                                                                                                   
 > **Tipo de Contrato**: ( Firma de Practica - Honorarios - Por Proyecto - Indefinido )                                                                        
-> **Remuneración Aproximada**: ( OBLIGATORIO!!!  Mínino y Máximo a Ofrecer )                                                                                                                      
-> **Correo Electrónico**: ( OBLIGATORIO!!! Todos los Correos deben ir con copia a contacto@programadoreschile.org )     
+> **Remuneración Aproximada**: ( OBLIGATORIO ***  Mínino y Máximo a Ofrecer )                                                                                                                      
+> **Correo Electrónico**: ( OBLIGATORIO *** Todos los Correos deben ir con copia a contacto@programadoreschile.org )     
                                                                                                                                       
 
 ## Remuneraciones Minimas Mensuales Permitidas para Publicar en la Comunidad :
