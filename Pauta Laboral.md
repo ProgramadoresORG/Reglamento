@@ -33,7 +33,7 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 ## Remuneraciones Minimas Mensuales Permitidas para Publicar en la Comunidad :
 
      >> Startups, Agencias Digitale, Desarrollo de Software y Soporte <<
-**Programador Estudiante** : Desde 300.000 CLP Liquido 
+**Programador Estudiante** : Desde 300.000 CLP Liquido                                                         
 **Programador Practicante** : Desde 100.000 CLP Liquido                                                                 
 **Programador Junior** : Desde 500.000 CLP Liquido                                                                            
 **Programador Advance** : Desde 1.000.000 CLP Liquido                                                                       
