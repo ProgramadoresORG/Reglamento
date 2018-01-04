@@ -34,7 +34,7 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 
 ## Remuneraciones Minimas Mensuales Permitidas para Publicar en la Comunidad :
 
-     >> Pequeña y Mediana Empresa <<
+     ::: Pequeña y Mediana Empresa :::
 **Programador Estudiante** : Desde 300.000 CLP Liquido                                                         
 **Programador Practicante** : Desde 100.000 CLP Liquido + Beneficios                                                           
 **Programador Junior** : Desde 500.000 CLP Liquido                                                                            
@@ -42,7 +42,7 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 **Programador Senior** : Desde 1.600.000 CLP Liquido                                                              
 **Jefes de Proyecto o CTO** : Desde 1.200.000 CLP Liquido    
 
-     >> Grandes Empresas <<
+     ::: Grandes Empresas :::
 **Practicante** : Desde 200.000 CLP Liquido + Beneficios                                                                    
 **Programador Junior** : Desde 1.000.000 CLP Liquido                                                                           
 **Programador Advance** : Desde 1.400.000 CLP Liquido                                                                       
