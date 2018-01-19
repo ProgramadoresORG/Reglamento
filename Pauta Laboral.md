@@ -37,7 +37,7 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 
      ::: Pequeña y Mediana Empresa :::
 **Programador Estudiante** : Desde 300.000 CLP Liquido                                                         
-**Programador Estudiante con Experiencia (Soporte)** : Desde 500.000 CLP Liquido                  
+**Programador Estudiante con Experiencia en Soporte** : Desde 500.000 CLP Liquido                  
 **Programador Practicante** : Desde 100.000 CLP Liquido + Beneficios          
 
 **Programador Junior** : Desde 500.000 CLP Liquido                                                                            
