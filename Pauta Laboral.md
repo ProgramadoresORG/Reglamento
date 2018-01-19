@@ -3,7 +3,7 @@ Para publicar una Oferta de Soporte en la Comunidad Programadores Chile los requ
 
      ✓ Horario : Compatible con Estudios Diurnos o Vespertinos
      ✓ Perfil Requerido : Sin Experiencia Laboral
-     ✓ Perfil Requerido : Con Experiencia Laboral (El Sueldo debe ser desde $500.000)                 
+     ✓ Perfil Requerido : Con Experiencia (El Sueldo debe ser desde $500.000)                 
 
 Para publicar una Práctica en la Comunidad Programadores Chile los requisitos mínimos son :
 
