@@ -42,7 +42,7 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 
 **Programador Junior** : Desde 500.000 CLP Liquido                                                                            
 **Programador Advance** : Desde 1.000.000 CLP Liquido                                                                       
-**Programador Senior** : Desde 1.600.000 CLP Liquido                                                              
+**Programador Senior** : Desde 1.500.000 CLP Liquido                                                              
 **Jefes de Proyecto** : Desde 1.200.000 CLP Liquido    
 
      ::: Grandes Empresas :::
