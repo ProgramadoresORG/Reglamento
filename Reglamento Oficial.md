@@ -1,6 +1,6 @@
 # Reglas Oficiales de la Comunidad
 
-**Quedarán a criterio de la administraciín de la comunidad aplicar las siguientes sanciones en caso de infringir las Normas de convivencia** 
+**Quedarán a criterio de la administración de la comunidad aplicar las siguientes sanciones en caso de infringir las Normas de convivencia** 
 
 > Eliminación de Comentario.                                                                                                   
 > Eliminación de la Publicación.                                                    
