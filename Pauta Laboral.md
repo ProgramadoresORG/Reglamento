@@ -28,7 +28,7 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 > **Benefícios**: ( Remuneraciones NO IMPONIBLES como Transporte, Colación, Bonos, Seguros, etc )                              
 > **Ambiente Laboral**: (  ¿Como es Trabajar en esta empresa? )                                                                                                   
 > **Tipo de Contrato**: ( Firma de Practica - Honorarios - Por Proyecto - Indefinido )                                                                        
-> **Remuneración Aproximada**: ( OBLIGATORIO ***  Mínino y Máximo a Ofrecer )                                                                                                                      
+> **Remuneración Aproximada**: ( OBLIGATORIO ***  Mínimo y Máximo a Ofrecer )                                                                                                                      
 > **Correo Electrónico**: ( OBLIGATORIO *** Correo Electrónico donde los postulantes envíen su CV)
 > **Enviar CV con Copia (CC) a**: cv@programadoreschile.org ( OBLIGATORIO *** ) 
                                                                                                                                       
