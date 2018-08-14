@@ -30,7 +30,7 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 > **Tipo de Contrato**: ( Firma de Practica - Honorarios - Por Proyecto - Indefinido )                                                                        
 > **Remuneración Aproximada**: ( OBLIGATORIO ***  Mínino y Máximo a Ofrecer )                                                                                                                      
 > **Correo Electrónico**: ( OBLIGATORIO *** Correo Electrónico donde los postulantes envíen su CV)
-> **Enviar CV con Copia (CC) a**: contacto@programadoreschile.org ( OBLIGATORIO *** ) 
+> **Enviar CV con Copia (CC) a**: cv@programadoreschile.org ( OBLIGATORIO *** ) 
                                                                                                                                       
 
 ## Remuneraciones Minimas Mensuales Permitidas para Publicar en la Comunidad :
