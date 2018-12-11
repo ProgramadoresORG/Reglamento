@@ -70,6 +70,7 @@
 
 **3.13** Crear publicaciones sobre temas de caracter Religioso, Politico y Deportivo.
 
+**3.14** Crear publicaciones, ofertas laborales o eventos que generen "Conflicto de Intereses" con las actividades o eventos de la comunidad ( para evitar este punto, todos los casos se conversan con la administración ).
 
 **Publicidad**:
 ---- 
