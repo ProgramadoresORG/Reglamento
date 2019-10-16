@@ -4,9 +4,9 @@
 **1. USUARIOS - No se van a permitir y tolerar  :** 
 ---- 
 
-**1.1** - Las solicitudes de perfiles falsos.
-**1.2** - Perfiles que tengan bloqueados a las autoridades de la comunidad.
-**1.3** - Perfiles que hayan sido BANEADOS en otras comunidades nuestras.
+**1.1** - Las solicitudes de perfiles falsos.                                                                
+**1.2** - Perfiles que tengan bloqueados a las autoridades de la comunidad.                                                    
+**1.3** - Perfiles que hayan sido BANEADOS en otras comunidades nuestras.                                                    
 
 > CONSEJO : Sé sincero. No trates de querer pasarte de listo. Si tuviste un problema con la 
 administración y la comunidad en el pasado, discúlpate y vuelve a reintegrarse. No dejes que el rencor o el orgullo te priven de volver a conectar con la comunidad nuevamente. 
@@ -18,13 +18,13 @@ administrador.
 **2. COMENTARIOS - No se van a permitir y tolerar  :** 
 ---- 
 
-**2.1** - Faltas de respeto entre miembros.
-**2.2** - Comentarios sobre clubes deportivos. ( fútbol, tenis, etc )
-**2.3** - Comentarios sobre creencias religiosas. ( católicos, judíos, etc )
-**2.4** - Comentarios sobre movimientos políticos. ( derecha, izquierda. etc )
-**2.5** - Comentarios sobre movimientos sociales. ( feministas, LGTB, AFP, etc )
-**2.6** - Faltas de respeto hacia las autoridades dentro y fuera de la comunidad.
-**2.7** - Comentarios insultantes o despectivos hacia miembros de otras nacionalidades.
+**2.1** - Faltas de respeto entre miembros.                                                    
+**2.2** - Comentarios sobre clubes deportivos. ( fútbol, tenis, etc )                                                    
+**2.3** - Comentarios sobre creencias religiosas. ( católicos, judíos, etc )                                                    
+**2.4** - Comentarios sobre movimientos políticos. ( derecha, izquierda. etc )                                                    
+**2.5** - Comentarios sobre movimientos sociales. ( feministas, LGTB, AFP, etc )                                                    
+**2.6** - Faltas de respeto hacia las autoridades dentro y fuera de la comunidad.                                                    
+**2.7** - Comentarios insultantes o despectivos hacia miembros de otras nacionalidades.                                                    
 
 > CONSEJO : Sé un guía. Es tentador discutir hasta que la gente cambie de opinión pero no 
 se trata de convencer a nadie, si no plantear tus experiencias y puntos de vista. Construyamos 
