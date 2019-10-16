@@ -35,15 +35,15 @@ una comunidad sana a través de las experiencias y opiniones nuestras y de otras
 **3. PUBLICACIONES - No se van a permitir y tolerar  :** 
 ---- 
 
-**3.1** - Publicaciones #OFFTOPIC de Lunes a Viernes.
-**3.2** - Publicaciones sobre "Ofertas Laborales" a través de capturas de pantalla
-**3.3** - Publicaciones con material con derechos de autor "Dentro" de la comunidad.
-**3.4** - Publicaciones sin #HASHTAG correspondiente al tema central de la publicación
-**3.5** - Publicaciones con acotadores de enlaces con fines de remuneración publicitaria.
-**3.6** - Encuestas con fines personales o comerciales que no compartan los resultados con la comunidad
-**3.7** - Publicaciones con fines "COMERCIALES" y "PROMOCIONALES" de una marca, producto, servicio o evento que no venga acompañado de un aporte pecuniario y que generen "Conflicto de Intereses".
+**3.1** - Publicaciones #OFFTOPIC de Lunes a Viernes.                                                    
+**3.2** - Publicaciones sobre "Ofertas Laborales" a través de capturas de pantalla                                                    
+**3.3** - Publicaciones con material con derechos de autor "Dentro" de la comunidad.                                                    
+**3.4** - Publicaciones sin #HASHTAG correspondiente al tema central de la publicación                                                    
+**3.5** - Publicaciones con acotadores de enlaces con fines de remuneración publicitaria.                                                    
+**3.6** - Encuestas con fines personales o comerciales que no compartan los resultados con la comunidad                                                    
+**3.7** - Publicaciones con fines "COMERCIALES" y "PROMOCIONALES" de una marca, producto, servicio o evento que no venga acompañado de un aporte pecuniario y que generen "Conflicto de Intereses".                                                    
 **3.8** - Publicaciones que generen "Conflicto de Intereses" con "ACTIVIDADES", "PROYECTOS" y "EVENTOS".
-todas las actividades, proyectos y eventos, antes de publicarse, deben ser conversados con un administrador.
+todas las actividades, proyectos y eventos, antes de publicarse, deben ser conversados con un administrador.                                                    
 
 
 > CONSEJO : Sé un referente. Ayuda a la comunidad a conseguir sus metas e influye sobre los demás. Consigue que las personas te escuchen, lean y respeten a través de tus publicaciones. Cuida tu reputación dentro y fuera de la comunidad. Por último, recuerda que hay muchas personas en las comunidad con las que haz trabajado o trabajarán algun día. Cuidemos nuestra reputación, cuida lo que publicas.
@@ -54,10 +54,10 @@ todas las actividades, proyectos y eventos, antes de publicarse, deben ser conve
 ---- 
 
 
-**3.1** - Ofertas Laborales que no sigan la Pauta Oficial de la Comunidad.
-**3.2** - Ofertas Laborales que no incluyan los campos obligatorios o que no correspondan 
-**3.3** - Solicitar especialistas con rangos  de sueldos líquidos inferiores a los  a los sugeridos por la comunidad.
-**3.4** - Discriminación arbitraria expuesta en la Ley 20.609, Articulo 2º - Definición de discriminación arbitraria --> [Leer La Ley 20.609](http://bcn.cl/1uyqt)
+**4.1** - Ofertas Laborales que no sigan la Pauta Oficial de la Comunidad.                                                     
+**4.2** - Ofertas Laborales que no incluyan los campos obligatorios o que no correspondan                                                     
+**4.3** - Solicitar especialistas con rangos  de sueldos líquidos inferiores a los  a los sugeridos por la comunidad.                                                    
+**4.4** - Discriminación arbitraria expuesta en la Ley 20.609, Articulo 2º - Definición de discriminación arbitraria --> [Leer La Ley 20.609](http://bcn.cl/1uyqt)                                                    
 
 > CONSEJO : Sé consciente. Todos queremos trabajar dignamente, si tienes presupuestos acotados o inferiores a los sugeridos te recomendamos reducir la cantidad de horas diarias a cambio de una menor remuneración, preferir el trabajo remoto o entrenar a personas de nivel "TRAINING".
 
