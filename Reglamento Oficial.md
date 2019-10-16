@@ -57,8 +57,10 @@ todas las actividades, proyectos y eventos, antes de publicarse, deben ser conve
 **4.1** - Ofertas Laborales que no sigan la Pauta Oficial de la Comunidad.                                                     
 **4.2** - Ofertas Laborales que no incluyan los campos obligatorios o que no correspondan                                                     
 **4.3** - Solicitar especialistas con rangos  de sueldos líquidos inferiores a los  a los sugeridos por la comunidad.                                                    
-**4.4** - Discriminación arbitraria expuesta en la Ley 20.609, Articulo 2º - Definición de discriminación arbitraria 
-                                                                                                                                                                                                                --> [Leer La Ley 20.609](http://bcn.cl/1uyqt)                                                    
+**4.4** - Discriminación arbitraria expuesta en la Ley 20.609, Articulo 2º - Definición de discriminación arbitraria
+
+
+--> [Leer La Ley 20.609](http://bcn.cl/1uyqt)                                                    
 
 > CONSEJO : Sé consciente. Todos queremos trabajar dignamente, si tienes presupuestos acotados o inferiores a los sugeridos te recomendamos reducir la cantidad de horas diarias a cambio de una menor remuneración, preferir el trabajo remoto o entrenar a personas de nivel "TRAINING".
 
