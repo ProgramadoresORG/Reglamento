@@ -40,7 +40,7 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 **Programador Estudiante con Experiencia en Soporte** : Desde 500.000 CLP Liquido                  
 **Programador Practicante** : Desde 100.000 CLP Liquido + Beneficios          
 
-**Programador Junior** : Desde 500.000 CLP Liquido                                                                            
+**Programador Junior** : Desde 700.000 CLP Liquido                                                                           
 **Programador Advance** : Desde 1.000.000 CLP Liquido                                                                       
 **Programador Senior** : Desde 1.500.000 CLP Liquido                                                              
 **Jefes de Proyecto** : Desde 1.200.000 CLP Liquido    
