@@ -42,7 +42,7 @@ una comunidad sana a través de las experiencias y opiniones nuestras y de otras
 **3.2** - Publicaciones sobre "Ofertas Laborales" a través de capturas de pantalla                                                    
 **3.3** - Publicaciones con material con derechos de autor "Dentro" de la comunidad.                                                    
 **3.4** - Publicaciones sin #HASHTAG correspondiente al tema central de la publicación                                                    
-**3.5** - Publicaciones con acotadores de enlaces con fines de remuneración publicitaria.                                                    
+**3.5** - Publicaciones con acortadores de enlaces con fines de remuneración publicitaria.                                                    
 **3.6** - Encuestas con fines personales o comerciales que no compartan los resultados con la comunidad                                                    
 **3.7** - Publicaciones con fines "COMERCIALES" y "PROMOCIONALES" de una marca, producto, servicio o evento que no venga acompañado de un aporte pecuniario y que generen "Conflicto de Intereses".                                                    
 **3.8** - Publicaciones que generen "Conflicto de Intereses" con "ACTIVIDADES", "PROYECTOS" y "EVENTOS".
