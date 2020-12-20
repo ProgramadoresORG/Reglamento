@@ -26,7 +26,9 @@ administración y la comunidad en el pasado, discúlpate y vuelve a reintegrarse
 **2.4** - Comentarios sobre movimientos políticos. ( derecha, izquierda. etc )                                                    
 **2.5** - Comentarios sobre movimientos sociales. ( feministas, LGTB, AFP, etc )                                                    
 **2.6** - Faltas de respeto hacia las autoridades dentro y fuera de la comunidad.                                                    
-**2.7** - Comentarios insultantes o despectivos hacia miembros de otras nacionalidades.                                                    
+**2.7** - Comentarios insultantes o despectivos hacia miembros de otras nacionalidades.   
+**2.8** - Publicar información de caracter personal y privada de los perfiles personales de los miembros en la comunidad.
+
 > CONSECUENCIAS : Todos estos incidentes desde el 2.1 al 2.7 serán DESVINCULADOS de la comunidad para reintegrarse, deben volver a enviar solicitud o hablar directamente con un administrador.
 
 > CONSEJO : Sé un guía. Es tentador discutir hasta que la gente cambie de opinión pero no 
@@ -46,7 +48,9 @@ una comunidad sana a través de las experiencias y opiniones nuestras y de otras
 **3.6** - Encuestas con fines personales o comerciales que no compartan los resultados con la comunidad                                                    
 **3.7** - Publicaciones con fines "COMERCIALES" y "PROMOCIONALES" de una marca, producto, servicio o evento que no venga acompañado de un aporte pecuniario y que generen "Conflicto de Intereses".                                                    
 **3.8** - Publicaciones que generen "Conflicto de Intereses" con "ACTIVIDADES", "PROYECTOS" y "EVENTOS".
-todas las actividades, proyectos y eventos, antes de publicarse, deben ser conversados con un administrador.                                                    
+todas las actividades, proyectos y eventos, antes de publicarse, deben ser conversados con un administrador.   
+
+**3.9** - Publicar información de caracter personal y privada de los perfiles personales de los miembros en la comunidad.
 
 > CONSECUENCIAS : Todos estos incidentes desde el 3.1 al 3.6 serán "ELIMINADOS" del feed de la comunidad y dependiendo si aplican dentro de incidentes 3.7 y 3.8 serán "EXPULSADOS Y BANEADOS" de la comunidad si es que antes los puntos no fueron conversados con un administrador.
 
