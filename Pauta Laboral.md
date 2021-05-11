@@ -1,10 +1,5 @@
 # Pauta para Ofertas Laborales y Prácticas Profesionales                                                                             
-Para publicar una Oferta de Soporte en la Comunidad Programadores Chile los requisitos mínimos son :
-
-     ✓ Horario : Compatible con Estudios Diurnos o Vespertinos
-     ✓ Perfil Requerido : Sin Experiencia Laboral (El Sueldo debe ser desde $300.000)  
-     ✓ Perfil Requerido : Con Experiencia (El Sueldo debe ser desde $500.000)                 
-
+         
 Para publicar una Práctica en la Comunidad Programadores Chile los requisitos mínimos son :
 
      ✓ Práctica Remunerada : Desde $100.000
@@ -36,19 +31,16 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 ## Remuneraciones Minimas Mensuales Permitidas para Publicar en la Comunidad :
 
      ::: Pequeña y Mediana Empresa :::
-**Programador Estudiante** : Desde 300.000 CLP Liquido                                                         
-**Programador Estudiante con Experiencia en Soporte** : Desde 500.000 CLP Liquido                  
+**Programador Estudiante** : Desde 300.000 CLP Liquido                                                                      
 **Programador Practicante** : Desde 100.000 CLP Liquido + Beneficios          
 
-**Programador Junior** : Desde 500.000 CLP Liquido                                                                            
-**Programador Advance** : Desde 1.000.000 CLP Liquido                                                                       
-**Programador Senior** : Desde 1.500.000 CLP Liquido                                                              
-**Jefes de Proyecto** : Desde 1.200.000 CLP Liquido    
-
-     ::: Grandes Empresas :::
-**Programador Practicante** : Desde 200.000 CLP Liquido + Beneficios        
-
-**Programador Junior** : Desde 1.000.000 CLP Liquido                                                                           
-**Programador Advance** : Desde 1.400.000 CLP Liquido                                                                       
+**Programador Junior** : Desde 600.000 CLP Liquido                                                                            
+**Programador Advance** : Desde 1.200.000 CLP Liquido                                                                       
 **Programador Senior** : Desde 1.800.000 CLP Liquido                                                              
-**Jefes de Proyecto** : Desde 2.000.000 CLP Liquido                                                                   
+
+     ::: Grandes Empresas e Instituciones Públicas :::
+**Programador Practicante** : Desde 300.000 CLP Liquido + Beneficios        
+
+**Programador Junior** : Desde 800.000 CLP Liquido                                                                           
+**Programador Advance** : Desde 1.600.000 CLP Liquido                                                                       
+**Programador Senior** : Desde 2.400.000 CLP Liquido                                                                                                               
