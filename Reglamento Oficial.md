@@ -52,6 +52,7 @@ una comunidad sana a través de las experiencias y opiniones nuestras y de otras
 todas las actividades, proyectos y eventos, antes de publicarse, deben ser conversados con un administrador.   
 
 **3.9** - Publicar información de caracter personal y privada de los perfiles personales de los miembros en la comunidad.
+**3.10** - Publicar contenido de caracter político o relacionado al contexto país del momento, ya sea nacional chileno o extranjero.
 
 > CONSECUENCIAS : Todos estos incidentes desde el 3.1 al 3.6 serán "ELIMINADOS" del feed de la comunidad y dependiendo si aplican dentro de incidentes 3.7 y 3.8 serán "EXPULSADOS Y BANEADOS" de la comunidad si es que antes los puntos no fueron conversados con un administrador.
 
