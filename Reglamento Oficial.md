@@ -29,6 +29,7 @@ administración y la comunidad en el pasado, discúlpate y vuelve a reintegrarse
 **2.7** - Comentarios insultantes o despectivos hacia miembros de otras nacionalidades.   
 **2.8** - Publicar información de caracter personal y privada de los perfiles personales de los miembros en la comunidad.                                         
 **2.9** - Burlas y/o Sarcasmo en los comentarios de las preguntas de los miembros de la comunidad.
+**2.10** - Lenguaje ofensivo y/o grosero.
 
 > CONSECUENCIAS : Todos estos incidentes desde el 2.1 al 2.7 serán DESVINCULADOS de la comunidad para reintegrarse, deben volver a enviar solicitud o hablar directamente con un administrador.
 
