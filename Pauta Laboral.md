@@ -21,7 +21,7 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 > **Ubicación**: ( Dirección de la Empresa o del lugar de la Entrevista o Remoto )                                                       
 > **Horarios**:  ( Lunes a Viernes de xx:xx a xx:xx hrs o artículo 22 del Código del Trabajo )                                                                                                                  
 > **Benefícios**: ( Remuneraciones NO IMPONIBLES como Transporte, Colación, Bonos, Seguros, etc )                              
-                                                                                            
+
 > **Tipo de Contrato**: ( Firma de Practica - Honorarios - Por Proyecto - Indefinido )
 
 > **Ambiente Laboral**: (  ¿Como es Trabajar en esta empresa? )                                       
