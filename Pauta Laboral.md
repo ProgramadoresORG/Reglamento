@@ -25,7 +25,8 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 > **Ambiente Laboral**: (  ¿Como es Trabajar en esta empresa? )                                                                                                                                                              
 > **Labores del Cargo**: (  • Lista de labores del cargo )                                                                                                                         
 > **Remuneración Aproximada**: ( OBLIGATORIO ***  Mínimo y Máximo a Ofrecer )                                                                                                                                                             
-> **Correo Electrónico**: ( OBLIGATORIO *** Correo Electrónico donde los postulantes envíen su CV)                                                                                                                                                             
+> **Correo Electrónico**: ( OBLIGATORIO *** Correo Electrónico donde los postulantes envíen su CV )                                                                                                                                                            
+> **Asunto del Correo**: ( OBLIGATORIO *** Titular que debe contener el asunto del correo )                                                                                                                                                             
 > **Enviar CV con Copia (CC) a**: cv@programadoreschile.org ( OBLIGATORIO *** )                                                                                                                                                              
 
 ## Remuneraciones Minimas Mensuales Permitidas para Publicar en la Comunidad :
