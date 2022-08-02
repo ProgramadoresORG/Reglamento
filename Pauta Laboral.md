@@ -17,12 +17,16 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 > **#OfertaLaboralProgramadoresChile**                                                                                                                                                                                                                             
 > **Nombre de la Empresa**:                                                                                                      
 > **Perfil Requerido**:  ( Conocimientos Requeridos para Postular )                                                                                                                              
-> **Nivel de Experticia**:  ( Estudiante - Practicante - Professional - Advance - Senior )                                                                                                            
-> **Ubicación**: ( Dirección de la Empresa o del lugar de la Entrevista )                                                       
+> **Nivel de Experticia**:  ( Practicante - Junior - Advance - Senior )                                                                                                            
+> **Ubicación**: ( Dirección de la Empresa o del lugar de la Entrevista o Remoto )                                                       
 > **Horarios**:  ( Lunes a Viernes de xx:xx a xx:xx hrs o artículo 22 del Código del Trabajo )                                                                                                                  
 > **Benefícios**: ( Remuneraciones NO IMPONIBLES como Transporte, Colación, Bonos, Seguros, etc )                              
-> **Ambiente Laboral**: (  ¿Como es Trabajar en esta empresa? )                                                                                                   
-> **Tipo de Contrato**: ( Firma de Practica - Honorarios - Por Proyecto - Indefinido )                                                                        
+                                                                                            
+> **Tipo de Contrato**: ( Firma de Practica - Honorarios - Por Proyecto - Indefinido )
+
+> **Ambiente Laboral**: (  ¿Como es Trabajar en esta empresa? )                                       
+
+> **Labores del Cargo**: (  • Lista de labores del cargo )                                                                                                                         
 > **Remuneración Aproximada**: ( OBLIGATORIO ***  Mínimo y Máximo a Ofrecer )                                                                                                                      
 > **Correo Electrónico**: ( OBLIGATORIO *** Correo Electrónico donde los postulantes envíen su CV)
 > **Enviar CV con Copia (CC) a**: cv@programadoreschile.org ( OBLIGATORIO *** ) 
@@ -30,17 +34,17 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 
 ## Remuneraciones Minimas Mensuales Permitidas para Publicar en la Comunidad :
 
-     ::: Pequeña y Mediana Empresa :::
-**Programador Estudiante** : Desde 300.000 CLP Liquido                                                                      
-**Programador Practicante** : Desde 100.000 CLP Liquido + Beneficios          
+     ::: Pequeña y Mediana Empresa :::                                                       
+**Programador Practicante** : Desde 200.000 CLP Liquido + Beneficios          
 
-**Programador Junior** : Desde 600.000 CLP Liquido                                                                            
-**Programador Advance** : Desde 1.200.000 CLP Liquido                                                                       
-**Programador Senior** : Desde 1.800.000 CLP Liquido                                                              
+**Programador Junior** : Desde 800.000 CLP Liquido a 1.200.000 CLP Liquido                                                    
+**Programador Advance** : Desde 1.200.000 CLP Liquido a 1.800.000 CLP Liquido                                                   
+**Programador Senior** : Desde 1.800.000 CLP Liquido a 4.000.000 CLP Liquido  
+**Director de Tecnoclogía (CTO)** : Desde 3.000.000 CLP Liquido en adelante ... 
 
      ::: Grandes Empresas e Instituciones Públicas :::
 **Programador Practicante** : Desde 300.000 CLP Liquido + Beneficios        
 
-**Programador Junior** : Desde 800.000 CLP Liquido                                                                           
-**Programador Advance** : Desde 1.600.000 CLP Liquido                                                                       
-**Programador Senior** : Desde 2.400.000 CLP Liquido                                                                                                               
+**Programador Junior** : Desde 1.000.000 CLP Liquido en adelante ...                                                           
+**Programador Advance** : Desde 1.800.000 CLP Liquido en adelante ...                                                           
+**Programador Senior** : Desde 2.800.000 CLP Liquido en adelante ...                                                           **Director de Tecnoclogía (CTO)** : Desde 4.000.000 CLP Liquido en adelante ...                                                     
