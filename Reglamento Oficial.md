@@ -21,10 +21,10 @@ administración y la comunidad en el pasado, discúlpate y vuelve a reintegrarse
 ---- 
 
 **2.1** - Faltas de respeto entre miembros.                                                    
-**2.2** - Comentarios sobre clubes deportivos. ( fútbol, tenis, etc )                                                    
-**2.3** - Comentarios sobre creencias religiosas. ( católicos, judíos, etc )                                                    
-**2.4** - Comentarios sobre movimientos políticos. ( derecha, izquierda. etc )                                                    
-**2.5** - Comentarios sobre movimientos sociales. ( feministas, LGTB, AFP, etc )                                                    
+**2.2** - Comentarios y/u opiniones sobre clubes deportivos.                                                    
+**2.3** - Comentarios y/u opiniones sobre creencias religiosas.                                                  
+**2.4** - Comentarios y/u opiniones sobre movimientos políticos.                                                   
+**2.5** - Comentarios y/u opiniones sobre movimientos sociales.                                                   
 **2.6** - Faltas de respeto hacia las autoridades dentro y fuera de la comunidad.                                                    
 **2.7** - Comentarios insultantes o despectivos hacia miembros de otras nacionalidades.   
 **2.8** - Publicar información de caracter personal y privada de los perfiles personales de los miembros en la comunidad.                                         
@@ -43,16 +43,16 @@ una comunidad sana a través de las experiencias y opiniones nuestras y de otras
 
 **3.1** - Publicaciones #OFFTOPIC de Lunes a Viernes.                                                    
 **3.2** - Publicaciones sobre "Ofertas Laborales" a través de capturas de pantalla                                                    
-**3.3** - Publicaciones con material con derechos de autor "Dentro" de la comunidad.                                                    
-**3.4** - Publicaciones sin #HASHTAG correspondiente al tema central de la publicación                                                    
-**3.5** - Publicaciones con acortadores de enlaces con fines de remuneración publicitaria.                                                    
-**3.6** - Encuestas con fines personales o comerciales que no compartan los resultados con la comunidad                                                    
-**3.7** - Publicaciones con fines "COMERCIALES" y "PROMOCIONALES" de una marca, producto, servicio o evento que no venga acompañado de un aporte pecuniario y que generen "Conflicto de Intereses".                                                    
-**3.8** - Publicaciones que generen "Conflicto de Intereses" con "ACTIVIDADES", "PROYECTOS" y "EVENTOS".
+**3.3** - Publicaciones con material con derechos de autor "Dentro" de la comunidad.
+**3.4** - Publicaciones con acortadores de enlaces con fines de remuneración publicitaria.                                                    
+**3.5** - Encuestas con fines personales o comerciales que no compartan los resultados con la comunidad                                                    
+**3.6** - Publicaciones con fines "COMERCIALES" y "PROMOCIONALES" de una marca, producto, servicio o evento que no venga acompañado de un aporte pecuniario y que generen "Conflicto de Intereses".                                                    
+**3.7** - Publicaciones que generen "Conflicto de Intereses" con "ACTIVIDADES", "PROYECTOS" y "EVENTOS".
 todas las actividades, proyectos y eventos, antes de publicarse, deben ser conversados con un administrador.   
 
-**3.9** - Publicar información de caracter personal y privada de los perfiles personales de los miembros en la comunidad.
-**3.10** - Publicar contenido de caracter político o relacionado al contexto país del momento, ya sea nacional chileno o extranjero.
+**3.8** - Publicar información de caracter personal y privada de los perfiles personales de los miembros en la comunidad.
+
+**3.9** - Publicar contenido de caracter político o relacionado al contexto país del momento, ya sea nacional chileno o extranjero.
 
 > CONSECUENCIAS : Todos estos incidentes desde el 3.1 al 3.6 serán "ELIMINADOS" del feed de la comunidad y dependiendo si aplican dentro de incidentes 3.7 y 3.8 serán "EXPULSADOS Y BANEADOS" de la comunidad si es que antes los puntos no fueron conversados con un administrador.
 
@@ -66,9 +66,7 @@ todas las actividades, proyectos y eventos, antes de publicarse, deben ser conve
 **4.1** - Ofertas Laborales que no sigan la Pauta Oficial de la Comunidad.                                                     
 **4.2** - Ofertas Laborales que no incluyan los campos obligatorios o que no correspondan                                                     
 **4.3** - Solicitar especialistas con rangos  de sueldos líquidos inferiores a los  a los sugeridos por la comunidad.                                                    
-**4.4** - Discriminación arbitraria expuesta en la Ley 20.609, Articulo 2º - Definición de discriminación arbitraria
-
-[Leer La Ley 20.609](http://bcn.cl/1uyqt)        
+**4.4** - En el caso de Chile: Discriminación arbitraria expuesta en la Ley 20.609, Articulo 2º - Definición de discriminación arbitraria [Leer La Ley 20.609](http://bcn.cl/1uyqt)        
 
 > CONSECUENCIAS : Todos estos incidentes desde el 4.1 al 4.4 serán "ELIMINADOS" del feed de la comunidad.es que antes los puntos no fueron conversados con un administrador.
 
