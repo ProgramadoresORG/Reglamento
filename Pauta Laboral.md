@@ -60,11 +60,11 @@ Disclaimer: Todas las ofertas laborales que no cumplan estos requisitos mínimos
 ---
 
 ### Venezuela:
-- **Programador Practicante:** Desde Bs.130 VES + Beneficios  
-- **Programador Junior:** Desde Bs.500 VES en adelante  
-- **Programador Avanzado:** Desde Bs.1.000 VES en adelante  
-- **Programador Senior:** Desde Bs.2.000 VES en adelante  
-- **Director de Tecnología (CTO):** Desde Bs.3.000 VES en adelante  
+- **Programador Practicante:** Desde 130 USD + Beneficios  
+- **Programador Junior:** Desde 500 USD en adelante  
+- **Programador Avanzado:** Desde 1.000 USD en adelante  
+- **Programador Senior:** Desde 2.000 USD en adelante  
+- **Director de Tecnología (CTO):** Desde 3.000 USD en adelante  
 
 ---
 
