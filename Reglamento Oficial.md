@@ -54,7 +54,22 @@ todas las actividades, proyectos y eventos, antes de publicarse, deben ser conve
 
 **3.9** - Publicar contenido de caracter político o relacionado al contexto país del momento, ya sea nacional chileno o extranjero.
 
-> CONSECUENCIAS : Todos estos incidentes desde el 3.1 al 3.6 serán "ELIMINADOS" del feed de la comunidad y dependiendo si aplican dentro de incidentes 3.7 y 3.8 serán "EXPULSADOS Y BANEADOS" de la comunidad si es que antes los puntos no fueron conversados con un administrador.
+**3.10** - Publicaciones de miembros solicitando "BÚSQUEDA DE EMPLEO", "OPORTUNIDADES 
+LABORALES", "RECOMENDACIONES DE EMPRESAS" o promocionando su disponibilidad laboral. 
+Esta es una comunidad técnica de intercambio de conocimientos, no una bolsa de trabajo.
+
+**3.11** - Publicaciones con el fin de hacer "NEGOCIOS", "TRANSACCIONES COMERCIALES" 
+o "INTERCAMBIOS ECONÓMICOS" entre miembros de la comunidad, incluyendo pero no 
+limitado a: venta de servicios freelance, productos digitales, cursos privados, 
+mentorías pagadas, o cualquier actividad que genere beneficio económico directo 
+entre miembros.
+
+**3.12** - Publicaciones solicitando "SERVICIOS DE DESARROLLO", "CONTRATACIÓN DE 
+PROGRAMADORES" o "BÚSQUEDA DE EMPRESAS DE SOFTWARE" para proyectos personales 
+o comerciales. Esta es una comunidad técnica de programadores, no una plataforma 
+para contratar servicios de desarrollo.
+
+> CONSECUENCIAS : Todos estos incidentes desde el 3.1 al 3.12 serán "ELIMINADOS" del feed de la comunidad y dependiendo si aplican dentro de incidentes 3.7 y 3.8 serán "EXPULSADOS Y BANEADOS" de la comunidad si es que antes los puntos no fueron conversados con un administrador.
 
 > CONSEJO : Sé un referente. Ayuda a la comunidad a conseguir sus metas e influye sobre los demás. Consigue que las personas te escuchen, lean y respeten a través de tus publicaciones. Cuida tu reputación dentro y fuera de la comunidad. Por último, recuerda que hay muchas personas en las comunidad con las que haz trabajado o trabajarán algun día. Cuidemos nuestra reputación, cuida lo que publicas.
 
